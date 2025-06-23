@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently student on [UFRN](https://www.ufrn.br/)
 
-- 🌱 I’m currently learning **Python, Django e C**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Desenvolvimento web**
 
